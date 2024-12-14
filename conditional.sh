@@ -14,3 +14,21 @@ if [ $age -ge 18 ]; then
 else
   echo "You are a minor."
 fi
+
+
+
+
+echo "Check weather given number is equal or not"
+echo "A"
+read a
+echo "B"
+read b
+
+if [ $a == $b ]; then
+    echo "They are equal numbers"
+    else 
+      echo "They not"
+fi
+
+
+
