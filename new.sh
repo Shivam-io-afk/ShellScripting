@@ -1,5 +1,3 @@
-#!/bin/bash
-
 echo "Enter Your Name"
 read name;
 
